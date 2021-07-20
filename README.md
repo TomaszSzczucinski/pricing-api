@@ -12,6 +12,12 @@ $ npm install
 
 ## Running the app
 
+We need to run docker container with postgresql database
+
+```bash
+docker-compose up -d // -d to run in background
+```
+
 Basically nestjs things
 
 ```bash
